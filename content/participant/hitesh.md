@@ -1,5 +1,3 @@
----
-Name: Hitesh Bhawsar
-institution/company: National Institute of Technology Karnataka (NITK) Surathkal.
-github: https://github.com/hbhawsar777
----
+name: Hitesh
+institution/company: MDU University
+github:[**username**](https://github.com/Hitesh-Attri)
